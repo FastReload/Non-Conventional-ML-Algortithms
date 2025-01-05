@@ -1,10 +1,6 @@
 # Non-Conventional-ML-Algortithms
 
 
-Here’s a concise description for your GitHub repository:
-
----
-
 ### 📊 Machine Learning and Data Analysis Essentials
 
 This repository showcases Python-based data analysis and machine learning workflows, leveraging popular libraries like NumPy, Pandas, Scikit-learn, Matplotlib, and advanced gradient boosting tools such as CatBoost and XGBoost. Key features include:
